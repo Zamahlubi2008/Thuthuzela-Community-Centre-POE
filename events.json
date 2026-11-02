@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Community Sports Day",
+    "category": "sport",
+    "date": "2026-11-14",
+    "priceNum": 0,
+    "image": "images/sports.jpg",
+    "alt": "Football players contesting the ball on a soccer field",
+    "description": "Our biggest day of the term: soccer and netball finals, sack races for the little ones and a braai stall. Free entry for families.",
+    "meta": "Sat 14 Nov 2026 · 09:00-15:00 · Free entry",
+    "tags": "sports day soccer netball family free"
+  },
+  {
+    "title": "Career & Bursary Expo",
+    "category": "career",
+    "date": "2026-11-21",
+    "priceNum": 0,
+    "image": "images/homework.jpg",
+    "alt": "Teacher and learners in a classroom",
+    "description": "Meet universities, TVET colleges, SETA learnerships and bursary providers. Bring your CV and school report.",
+    "meta": "Sat 21 Nov 2026 · 10:00-14:00 · Free entry",
+    "tags": "career bursary university college expo cv learnership"
+  },
+  {
+    "title": "Arts Showcase Evening",
+    "category": "community",
+    "date": "2026-11-28",
+    "priceNum": 30,
+    "image": "images/arts.jpg",
+    "alt": "A child painting during a creative art activity",
+    "description": "Our drama, dance and music learners perform their term's work. Tickets at the door, proceeds support the arts programme.",
+    "meta": "Sat 28 Nov 2026 · 18:00 · R30",
+    "tags": "arts drama dance music showcase performance tickets"
+  },
+  {
+    "title": "Year-End Fundraising Gala",
+    "category": "fundraiser",
+    "date": "2026-12-05",
+    "priceNum": 250,
+    "image": "images/community.jpg",
+    "alt": "Young people gathered outdoors",
+    "description": "Annual gala dinner with guest speakers, a three-course meal and an auction in support of next year's meal programme.",
+    "meta": "Sat 5 Dec 2026 · 18:30 · R250 per ticket",
+    "tags": "gala fundraiser dinner auction tickets donation"
+  },
+  {
+    "title": "Holiday Coding Camp",
+    "category": "career",
+    "date": "2026-12-14",
+    "priceNum": 0,
+    "image": "images/digital.jpg",
+    "alt": "Hands working with electronic components",
+    "description": "A free three-day introduction to coding for ages 12 to 16. Laptops provided, 20 places only, booking essential.",
+    "meta": "Mon 14 to Wed 16 Dec 2026 · 09:00-13:00 · Free, 20 places",
+    "tags": "coding camp holiday free technology ict kids teens"
+  },
+  {
+    "title": "New Year Community Open Day",
+    "category": "community",
+    "date": "2027-01-16",
+    "priceNum": 0,
+    "image": "images/event.jpg",
+    "alt": "Learners gathered in a classroom for group learning",
+    "description": "Tour the centre, meet the coaches and tutors, and enrol for the new term. Free meal for every visitor.",
+    "meta": "Sat 16 Jan 2027 · 10:00-14:00 · Free entry",
+    "tags": "open day community enrol tour free new year"
+  }
+]
